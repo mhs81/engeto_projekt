@@ -37,11 +37,11 @@ Dle zadání bylo nutné vytvořit dvě výchozí tabulky pro získání potřeb
 U třetí otázky jsem jako potravinu, která zdražuje nejpomaleji, vybral potravinu, která má průměrně nejnižší percentuální nárůst za celé období 12 let. 
 U páté otázky se mi nepodařilo jednoznačně odpovědět, data jsou lépe čitelná až při zobrazení formou grafu v Excelu. 
 
-Discord - milan_81
-
 ## VÝSLEDKY
 1) Ano, mzdy klesají v několika odvětvích v průběhu let – např. stavebnictví, zemědělství, vzdělávání.
 2) V prvním srovnatelném roce 2016 bylo možné koupit 1173 ks chleba a 1309 l mléka. V posledním srovnatelném roce 2018 1279 ks a 1564 l. 
 3) V průběhu sledovaných let zdražuje nejpomaleji cukr. 
 4)  Meziroční nárůst cen potravin nebyl vyšší než růst mezd o 10 % v průběhu sledovaných let. 
-5) Z dat lze vysledovat souvislost mezi HDP, mzdami a cenami potravin. Data by bylo vhodné zobrazit formou grafu. 
+5) Z dat lze vysledovat souvislost mezi HDP, mzdami a cenami potravin. Data by bylo vhodné zobrazit formou grafu.
+
+Discord - milan_81
