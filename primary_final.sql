@@ -28,7 +28,8 @@ FROM czechia_price price
 JOIN czechia_price_category p_code
 	ON price.category_code = p_code.code
 WHERE price.region_code IS NULL
-GROUP BY rok, price.category_code)
+GROUP BY rok, price.category_code
+)
 UNION
 (SELECT e.year 
 	,NULL as odvetvi
