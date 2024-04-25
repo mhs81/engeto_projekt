@@ -33,6 +33,9 @@ countries - Všemožné informace o zemích na světě, například hlavní měs
 economies - HDP, GINI, daňová zátěž, atd. pro daný stát a rok.
 
 ## POSTUP
+Dle zadání bylo nutné vytvořit dvě výchozí tabulky pro získání potřebných konkrétních dat. 
+U třetí otázky jsem jako potravinu, která zdražuje nejpomaleji, vybral potravinu, která má průměrně nejnižší percentuální nárůst za celé období 12 let. 
+U páté otázky se mi nepodařilo jednoznačně odpovědět, data jsou lépe čitelná až při zobrazení formou grafu v Excelu. 
 
 ## VÝSLEDKY
 1) Ano, mzdy klesají v několika odvětvích v průběhu let – např. stavebnictví, zemědělství, vzdělávání.
